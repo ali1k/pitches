@@ -13,12 +13,17 @@ here we talk about something else
 # basics
 
 ---
-# GIST
+# GIST below
+
+#GIST in next slide
 
 +++?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Sample Code
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala
 
+---
+# Video
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 ---
 # content
 this is one of the slides
