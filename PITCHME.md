@@ -9,7 +9,7 @@ here we talk about something else
 
 ---
 <!-- page_number: true -->
-
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 # basics
 
 ---
