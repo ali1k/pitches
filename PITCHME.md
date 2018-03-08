@@ -25,6 +25,8 @@ here we talk about something else
 # Video
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 ---
+---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+
 # content
 this is one of the slides
 - DeckTreeStore
