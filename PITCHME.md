@@ -15,7 +15,7 @@ here we talk about something else
 ---
 # GIST below
 
-#GIST in next slide
+# GIST in next slide
 
 +++?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Sample Code
 
