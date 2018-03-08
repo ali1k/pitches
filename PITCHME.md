@@ -13,6 +13,11 @@ here we talk about something else
 # basics
 
 ---
+# GIST
+
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala
+
+---
 # content
 this is one of the slides
 - DeckTreeStore
